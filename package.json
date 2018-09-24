@@ -1,0 +1,22 @@
+{
+  "name": "gold-password-input",
+  "version": "1.0.0",
+  "description": "[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg?style=flat-square)](https://www.webcomponents.org/element/GeoloeG/gold-password-input)",
+  "main": "wct.conf.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/golb/gold-password-input.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/golb/gold-password-input/issues"
+  },
+  "homepage": "https://github.com/golb/gold-password-input#readme"
+}
